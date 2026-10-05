@@ -1,0 +1,8 @@
+[core]
+	fileMode = false
+[safe]
+	directory = /home/jovyan/work
+	directory = /home/jovyan/work
+[user]
+	email = adamasane748@gmail.com
+	name = AdamaSANE
